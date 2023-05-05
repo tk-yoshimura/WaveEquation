@@ -1,0 +1,3 @@
+\begin{eqnarray*}
+  \frac{\partial^2 z}{\partial t^2} = c^2 \left( \frac{\partial^2 z}{\partial x^2} + \frac{\partial^2 z}{\partial y^2} \right) - \mu \frac{\partial z}{\partial t}
+\end{eqnarray*}
