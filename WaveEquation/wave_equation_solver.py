@@ -10,7 +10,7 @@ class WaveEquationSolver(object):
         z0: numpy.ndarray
             initial potential
         c: float
-            wave velocity
+            phase velocity
         mu: float
             viscosity
         dt: float
