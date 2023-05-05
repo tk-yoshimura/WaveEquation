@@ -67,7 +67,7 @@ class WaveEquationSolver(object):
 
     @property
     def c(self) -> np.ndarray:
-        """ wave velocity
+        """ phase velocity
         """
         return self.__c
 
