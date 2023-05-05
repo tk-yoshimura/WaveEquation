@@ -2,7 +2,7 @@
 
 ## Formula
 ![formula](https://github.com/tk-yoshimura/WaveEquation/blob/main/figures/formula.svg)  
-c: wave velocity  
+c: phase velocity  
 &mu;: viscosity
 
 ## Demo
